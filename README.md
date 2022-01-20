@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **samueliatarola@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/saamoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saamoff" height="30" width="40" /></a>
 <a href="https://instagram.com/sam.iatarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam.iatarola" height="30" width="40" /></a>
 </p>
