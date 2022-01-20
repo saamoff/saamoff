@@ -2,9 +2,9 @@
 <h3 align="center">A starter frontend developer from Brazil.</h3>
 
 
-<p align="center">- 🌱 I’m currently learning **Vue.js**</p>
+<p align="center">- 🌱 I’m currently learning <b>Vue.js</b></p>
 
-<p align="center">- 📫 How to reach me **samueliatarola@gmail.com**</p>
+<p align="center">- 📫 How to reach me <b>samueliatarola@gmail.com</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
