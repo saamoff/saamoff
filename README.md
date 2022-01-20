@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samuel Iatarola</h1>
 <h3 align="center">A starter frontend developer from Brazil.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saamoff&label=Profile%20views&color=0e75b6&style=flat" alt="saamoff" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+<p align="center">- 🌱 I’m currently learning **Vue.js**</p>
 
-- 📫 How to reach me **samueliatarola@gmail.com**
+<p align="center">- 📫 How to reach me **samueliatarola@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
