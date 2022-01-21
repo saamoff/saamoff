@@ -7,7 +7,6 @@
 
 <p align="center">📫 How to reach me <b>samueliatarola@gmail.com</b></p>
 
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
