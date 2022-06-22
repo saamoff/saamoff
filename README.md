@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Iatarola</h1>
-<h3 align="center">A starter frontend developer from Brazil.</h3>
+<h1 align="center">Samuel Iatarola</h1>
+<h3 align="center">A trainee Front End Developer.</h3>
 
 <br>
 
