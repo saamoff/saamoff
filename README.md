@@ -3,8 +3,6 @@
 
 <br>
 
-<p align="center">🌱 I’m currently learning <b>Vue.js</b></p>
-
 <p align="center">📫 How to reach me <b>samueliatarola@gmail.com</b></p>
 
 
