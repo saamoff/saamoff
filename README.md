@@ -1,5 +1,5 @@
 <h1 align="center">Samuel Iatarola</h1>
-<h3 align="center">A trainee Front End Developer.</h3>
+<h3 align="center">Front End Developer.</h3>
 
 <br>
 
